@@ -27,7 +27,7 @@ The neural network is trained on the [UCI Machine Learning Dataset](https://arch
 
 This is how the neural network will look:
 
-![first-neural-network](./assets/neural_network.png)
+![first-neural-network](./assets/karpathy-network.png)
 
 The network has two layers, a hidden layer and an output layer. The hidden layer will use the sigmoid function for activations. The output layer has only one node and is used for the regression, the output of the node is the same as the input of the node.
 
